@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-from data.data import X
+from data import X
 
 
 def normal(X, mu, sigma):
